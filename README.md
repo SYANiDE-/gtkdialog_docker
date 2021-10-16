@@ -8,9 +8,10 @@ By sourcing the sourceme.sh, a function 'dkx' is made available on your current 
 
 USAGE:
 ```` dkx [sourcedir] [ctx_dest_mount_path] [all_remain_args_cmd_to_exec]
-
+````
 
 EXAMPLE:
 ```` dkx ~/ETBD/11_Kiosk_Breakouts/ /opt/scripts/ gtkdialog -f 11.3.1__01__gtkdialog_pseudoterminal
+````
 
 ![alt text](https://github.com/SYANiDE-/gtkdialog_docker/blob/master/img/2021-10-16_16-40.png)
